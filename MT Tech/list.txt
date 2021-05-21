@@ -1,0 +1,38 @@
+techpack/techage
+mesecons
+hidroplane
+https://github.com/APercy/minetest_biofuel
+https://content.minetest.net/packages/joe7575/towercrane/
+digilines
+minecart
+tubelib2?
+https://content.minetest.net/packages/bell07/woodcutting/
+advanced trains
+anvil
+https://content.minetest.net/packages/sorcerykid/doors/
+digistuff
+moremesecons
+airtanks
+stamina
+mpd
+airtanks
+ropes
+mesecons_x
+stamina
+mesecons_carts
+facade
+factory_bridges
+tpr
+digiterms
+bouncy_bed
+Terumet
+pontoons
+mesecons_soundblock
+led_marquee
+ham_radio
+replacer
+(skinsdb) https://forum.minetest.net/viewtopic.php?f=11&t=17899
+basic_robot (https://forum.minetest.net/viewtopic.php?f=11&t=15850)
+(terumet) https://forum.minetest.net/viewtopic.php?f=9&t=19194&hilit=terumet
+(basic_materials)
+(moreores)
