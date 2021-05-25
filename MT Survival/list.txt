@@ -1,7 +1,7 @@
 Mobs Redo
 Mobs Animal
 Mobs NPC
-Mobs Horse
+Mob Horse
 Mobs_water
 creeper
 dmobs

@@ -1,0 +1,81 @@
+[submodule "MT Survival/mobs_redo"]
+	path = MT Survival/mobs_redo
+	url = https://notabug.org/TenPlus1/mobs_redo.git
+[submodule "MT Survival/mobs_animal"]
+	path = MT Survival/mobs_animal
+	url = https://notabug.org/tenplus1/mobs_animal.git
+[submodule "MT Survival/mobs_npc"]
+	path = MT Survival/mobs_npc
+	url = https://notabug.org/tenplus1/mobs_npc.git
+[submodule "MT Survival/mob_horse"]
+	path = MT Survival/mob_horse
+	url = https://notabug.org/tenplus1/mob_horse.git
+[submodule "MT Survival/sneeker"]
+	path = MT Survival/sneeker
+	url = https://github.com/AntumMT/mod-sneeker.git
+[submodule "MT Survival/dmobs"]
+	path = MT Survival/dmobs
+	url = https://notabug.org/tenplus1/dmobs.git
+[submodule "MT Survival/3d_armor"]
+	path = MT Survival/3d_armor
+	url = https://github.com/minetest-mods/3d_armor.git
+[submodule "MT Survival/farming"]
+	path = MT Survival/farming
+	url = https://notabug.org/tenplus1/farming.git
+[submodule "MT Survival/mesecons"]
+	path = MT Survival/mesecons
+	url = https://github.com/minetest-mods/mesecons.git
+[submodule "MT Survival/moreblocks"]
+	path = MT Survival/moreblocks
+	url = https://github.com/minetest-mods/moreblocks.git
+[submodule "MT Survival/unified_inventory"]
+	path = MT Survival/unified_inventory
+	url = https://github.com/minetest-mods/unified_inventory.git
+[submodule "MT Survival/nether"]
+	path = MT Survival/nether
+	url = https://github.com/minetest-mods/nether.git
+[submodule "MT Survival/homedecor_modpack"]
+	path = MT Survival/homedecor_modpack
+	url = https://gitlab.com/VanessaE/homedecor_modpack.git
+[submodule "MT Survival/hangglider"]
+	path = MT Survival/hangglider
+	url = https://notabug.org/Piezo_/minetest-hangglider.git
+[submodule "MT Survival/bonemeal"]
+	path = MT Survival/bonemeal
+	url = https://notabug.org/tenplus1/bonemeal.git
+[submodule "MT Survival/travelnet"]
+	path = MT Survival/travelnet
+	url = https://github.com/Sokomine/travelnet.git
+[submodule "MT Survival/livingnether"]
+	path = MT Survival/livingnether
+	url = https://github.com/Skandarella/livingnether.git
+[submodule "MT Survival/bows"]
+	path = MT Survival/bows
+	url = https://notabug.org/TenPlus1/bows.git
+[submodule "MT Survival/stamina"]
+	path = MT Survival/stamina
+	url = https://github.com/minetest-mods/stamina.git
+[submodule "MT Survival/boost_cart"]
+	path = MT Survival/boost_cart
+	url = https://github.com/SmallJoker/boost_cart.git
+[submodule "MT Survival/bike"]
+	path = MT Survival/bike
+	url = https://gitlab.com/h2mm/bike.git
+[submodule "MT Survival/hot_air_balloons"]
+	path = MT Survival/hot_air_balloons
+	url = https://notabug.org/NetherEran/hot_air_balloons.git
+[submodule "MT Survival/snowdrift"]
+	path = MT Survival/snowdrift
+	url = https://github.com/paramat/snowdrift.git
+[submodule "MT Survival/drawers"]
+	path = MT Survival/drawers
+	url = https://github.com/minetest-mods/drawers.git
+[submodule "MT Survival/sailing_kit"]
+	path = MT Survival/sailing_kit
+	url = https://github.com/TheTermos/sailing_kit.git
+[submodule "MT Survival/auroras"]
+	path = MT Survival/auroras
+	url = https://github.com/random-geek/auroras.git
+[submodule "MT Survival/castle_gates"]
+	path = MT Survival/castle_gates
+	url = https://github.com/minetest-mods/castle_gates.git
