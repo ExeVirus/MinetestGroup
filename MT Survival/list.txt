@@ -43,7 +43,6 @@ flowerpot
 ropes
 bucket_wooden
 orienteering
-caverealms
 playerplus
 cartographer
 stamina
@@ -52,7 +51,6 @@ tpr
 sickles
 fireflies
 bouncy_bed
-grave
 bell
 fiftySix's bottle mod
 sounding_line
