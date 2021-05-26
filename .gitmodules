@@ -79,3 +79,87 @@
 [submodule "MT Survival/castle_gates"]
 	path = MT Survival/castle_gates
 	url = https://github.com/minetest-mods/castle_gates.git
+[submodule "MT Survival/magic_potions"]
+	path = MT Survival/magic_potions
+	url = https://github.com/appgurueu/magic_potions.git
+[submodule "MT Survival/caverealms_lite.git"]
+	path = MT Survival/caverealms_lite.git
+	url = https://github.com/Ezhh/caverealms_lite.git
+[submodule "MT Survival/algae"]
+	path = MT Survival/algae
+	url = https://github.com/exevirus/algae.git
+[submodule "MT Survival/farming_flood"]
+	path = MT Survival/farming_flood
+	url = https://github.com/AFCMS/farming_flood.git
+[submodule "MT Survival/stonebrick_dungeons"]
+	path = MT Survival/stonebrick_dungeons
+	url = https://codeberg.org/Hamlet/stonebrick_dungeons.git
+[submodule "MT Survival/falls"]
+	path = MT Survival/falls
+	url = https://github.com/ExeVirus/falls.git
+[submodule "MT Survival/mpd"]
+	path = MT Survival/mpd
+	url = https://github.com/orwell96/mpd.git
+[submodule "MT Survival/airtanks"]
+	path = MT Survival/airtanks
+	url = https://github.com/minetest-mods/airtanks.git
+[submodule "MT Survival/flowerpot"]
+	path = MT Survival/flowerpot
+	url = https://github.com/minetest-mods/flowerpot.git
+[submodule "MT Survival/ropes"]
+	path = MT Survival/ropes
+	url = https://github.com/minetest-mods/ropes.git
+[submodule "MT Survival/wooden_bucket"]
+	path = MT Survival/wooden_bucket
+	url = https://gitlab.com/h2mm/wooden_bucket.git
+[submodule "MT Survival/minetest_orienteering"]
+	path = MT Survival/minetest_orienteering
+	url = https://repo.or.cz/minetest_orienteering.git
+[submodule "MT Survival/playerplus"]
+	path = MT Survival/playerplus
+	url = https://notabug.org/tenplus1/playerplus.git
+[submodule "MT Survival/cartographer_minetest_game"]
+	path = MT Survival/cartographer_minetest_game
+	url = https://gitlab.com/Df458/cartographer-mtg.git
+[submodule "MT Survival/cartographer"]
+	path = MT Survival/cartographer
+	url = https://gitlab.com/Df458/cartographer.git
+[submodule "MT Survival/tpr"]
+	path = MT Survival/tpr
+	url = https://github.com/minetest-mods/teleport-request.git
+[submodule "MT Survival/sickles"]
+	path = MT Survival/sickles
+	url = https://github.com/t-affeldt/sickles.git
+[submodule "MT Survival/fireflies"]
+	path = MT Survival/fireflies
+	url = https://github.com/Ezhh/fireflies.git
+[submodule "MT Survival/bouncy_bed"]
+	path = MT Survival/bouncy_bed
+	url = https://notabug.org/MeseCraft/bouncy_bed.git
+[submodule "MT Survival/bell"]
+	path = MT Survival/bell
+	url = https://github.com/Sokomine/bell.git
+[submodule "MT Survival/bottle_message"]
+	path = MT Survival/bottle_message
+	url = https://gitlab.com/Fiftysix/bottle_message.git
+[submodule "MT Survival/sounding_line"]
+	path = MT Survival/sounding_line
+	url = https://github.com/minetest-mods/sounding_line.git
+[submodule "MT Survival/minetest_calendar"]
+	path = MT Survival/minetest_calendar
+	url = https://repo.or.cz/minetest_calendar.git
+[submodule "MT Survival/minetest_doc_modpack"]
+	path = MT Survival/minetest_doc_modpack
+	url = https://repo.or.cz/minetest_doc_modpack.git
+[submodule "MT Survival/grappling_hook"]
+	path = MT Survival/grappling_hook
+	url = https://github.com/v1nsai/grappling_hook.git
+[submodule "MT Survival/replacer"]
+	path = MT Survival/replacer
+	url = https://github.com/Sokomine/replacer.git
+[submodule "MT Survival/holidays"]
+	path = MT Survival/holidays
+	url = https://github.com/BlockySurvival/holidays.git
+[submodule "MT Survival/skinsdb"]
+	path = MT Survival/skinsdb
+	url = https://github.com/minetest-mods/skinsdb.git
